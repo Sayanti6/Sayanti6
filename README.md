@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Sayanti6
 - 👀 I’m interested in coding
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning C,Java, Python 
 - 💞️ I’m looking to collaborate ...
 - 📫 How to reach me ...
 
